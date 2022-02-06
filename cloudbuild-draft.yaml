@@ -31,7 +31,7 @@ steps:
   - --image=gcr.io/$PROJECT_ID/$REPO_NAME-$BRANCH_NAME:$COMMIT_SHA
   - --platform=managed
   - --project=$PROJECT_ID
-  - --region=us-central1
+  - --region=asia-east1
   - --memory=512Mi
   - --allow-unauthenticated
   - $REPO_NAME-$BRANCH_NAME
