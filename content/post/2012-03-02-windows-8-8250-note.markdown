@@ -1,0 +1,29 @@
+---
+author: kkdai
+categories:
+- 柴米油鹽的東西
+- 下一代視窗系統心得
+comments: true
+date: "2012-03-02T11:50:11Z"
+slug: windows-8-8250-note
+title: Windows 8- 8250 note
+wordpress_id: 1151
+---
+
+
+
+
+
+	
+  1. Windows 8 8250 is official Win8 beta which release on 02/29
+
+	
+  2. It not include VS2011 which vs2011 beta also release.
+
+	
+  3. Only VS2011 Express for Win8 has “Store” publish.
+
+	
+  4. ACK/HCK is not include with Win8 beta but include on VS2011 beta
+
+
