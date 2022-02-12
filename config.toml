@@ -1,9 +1,9 @@
 baseURL = "/"
 languageCode = "en-us"
 
-title = "Hello Hugo"
-name = "John Doe"
-description = "hello, world"
+title = "Blog E"
+name = "Evan Lin"
+description = "Attitude is everything"
 
-theme = "mainroad"
+theme = "m10c"
 paginate = "10"
